@@ -1,0 +1,18 @@
+{
+  "packages": {
+    
+    "<your-package-id>": {
+      "name": "<your-package-name>",
+      "description": "<your-package-des>",
+      "main_url": "<your-package-download-url>",
+      "versions": {
+        "<your-package-version>": {
+          "url": "<your-version-download-url>",
+          "type": "<type>",
+          "platforms": ["platforms(darwin (macOS) or linux or windows)"]
+        }
+      }
+    }
+    
+  }
+}
